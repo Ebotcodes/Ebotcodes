@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Most Used Languages :EMOJICODE⬇️
-- HTML ![html](https://github.com/Ebotcodes/Ebotcodes/assets/97318117/6aaf424f-18a9-404a-bddd-6c3ce5cc7169)
-- CSS![css](https://github.com/Ebotcodes/Ebotcodes/assets/97318117/f7941a7d-5a3c-43e0-a0bc-0e2be0aa29c5)
-- JAVASCRIPT ![js](https://github.com/Ebotcodes/Ebotcodes/assets/97318117/887b8957-6171-4b42-b30e-0d7214e47276)
